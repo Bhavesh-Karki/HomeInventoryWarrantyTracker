@@ -1,0 +1,43 @@
+namespace HomeInventoryWarrantyTracker.Inventory {
+    public partial class EditItem {
+        protected global::System.Web.UI.WebControls.Label lblMessage;
+        protected global::System.Web.UI.WebControls.TextBox txtProductName;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvProductName;
+        protected global::System.Web.UI.WebControls.DropDownList ddlCategory;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvCategory;
+        protected global::System.Web.UI.WebControls.TextBox txtBrand;
+        protected global::System.Web.UI.WebControls.TextBox txtModelNumber;
+        protected global::System.Web.UI.WebControls.TextBox txtSerialNumber;
+        protected global::System.Web.UI.WebControls.TextBox txtDescription;
+        protected global::System.Web.UI.WebControls.TextBox txtPurchaseDate;
+        protected global::System.Web.UI.WebControls.DropDownList ddlPurchaseMonth;
+        protected global::System.Web.UI.WebControls.DropDownList ddlPurchaseYear;
+        protected global::System.Web.UI.WebControls.Calendar calPurchaseDate;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvPurchaseDate;
+        protected global::System.Web.UI.WebControls.TextBox txtPurchasePrice;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvPrice;
+        protected global::System.Web.UI.WebControls.RangeValidator rvPrice;
+        protected global::System.Web.UI.WebControls.DropDownList ddlSeller;
+        protected global::System.Web.UI.WebControls.TextBox txtCustomSeller;
+        protected global::System.Web.UI.WebControls.DropDownList ddlLocation;
+        protected global::System.Web.UI.WebControls.RadioButtonList rblCondition;
+        protected global::System.Web.UI.WebControls.CheckBox chkHasWarranty;
+        protected global::System.Web.UI.WebControls.Panel pnlWarranty;
+        protected global::System.Web.UI.WebControls.DropDownList ddlWarrantyType;
+        protected global::System.Web.UI.WebControls.TextBox txtCustomWarrantyType;
+        protected global::System.Web.UI.WebControls.TextBox txtProvider;
+        protected global::System.Web.UI.WebControls.TextBox txtWarrantyStart;
+        protected global::System.Web.UI.WebControls.DropDownList ddlWarrantyStartMonth;
+        protected global::System.Web.UI.WebControls.DropDownList ddlWarrantyStartYear;
+        protected global::System.Web.UI.WebControls.Calendar calWarrantyStart;
+        protected global::System.Web.UI.WebControls.DropDownList ddlWarrantyPeriod;
+        protected global::System.Web.UI.WebControls.TextBox txtCustomWarrantyPeriod;
+        protected global::System.Web.UI.WebControls.TextBox txtWarrantyExpiry;
+        protected global::System.Web.UI.WebControls.DropDownList ddlWarrantyExpiryMonth;
+        protected global::System.Web.UI.WebControls.DropDownList ddlWarrantyExpiryYear;
+        protected global::System.Web.UI.WebControls.Calendar calWarrantyExpiry;
+        protected global::System.Web.UI.WebControls.TextBox txtWarrantyTerms;
+        protected global::System.Web.UI.WebControls.TextBox txtWarrantyContact;
+        protected global::System.Web.UI.WebControls.Button btnUpdate;
+    }
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <NavigateUrl>~/Dashboard.aspx</NavigateUrl>
+    <AlternateText>Register products within 30 days of purchase for warranty validity.</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>tip</Keyword>
+  </Ad>
+  <Ad>
+    <NavigateUrl>~/Dashboard.aspx</NavigateUrl>
+    <AlternateText>Store digital copies of all purchase invoices.</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>tip</Keyword>
+  </Ad>
+  <Ad>
+    <NavigateUrl>~/Dashboard.aspx</NavigateUrl>
+    <AlternateText>Clean your AC filters every 3 months for better performance.</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>tip</Keyword>
+  </Ad>
+  <Ad>
+    <NavigateUrl>~/Dashboard.aspx</NavigateUrl>
+    <AlternateText>Always take a photo of the serial number sticker before it fades.</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>tip</Keyword>
+  </Ad>
+  <Ad>
+    <NavigateUrl>~/Dashboard.aspx</NavigateUrl>
+    <AlternateText>Schedule maintenance for major appliances before warranty expires.</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>tip</Keyword>
+  </Ad>
+  <Ad>
+    <NavigateUrl>~/Dashboard.aspx</NavigateUrl>
+    <AlternateText>Use authorized service centers for repairs to keep warranties valid.</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>tip</Keyword>
+  </Ad>
+</Advertisements>

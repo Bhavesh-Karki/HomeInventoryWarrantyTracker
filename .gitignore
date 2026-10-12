@@ -1,0 +1,35 @@
+## Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet Packages
+packages/
+*.nupkg
+
+# Temporary files & caches
+*.tmp
+*.temp
+*.log
+
+# Local Documentation and Prompts (Excluded from public repo)
+Master Prompt*
+PROJECT_DOCUMENTATION.md
+README.md
+Database1.md

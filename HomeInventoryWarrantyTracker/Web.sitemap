@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0">
+  <siteMapNode url="~/Default.aspx" title="Home" description="Home">
+    <siteMapNode url="~/Dashboard.aspx" title="Dashboard" description="Dashboard" />
+    <siteMapNode url="~/Inventory/Inventory.aspx" title="Inventory" description="Inventory">
+      <siteMapNode url="~/Inventory/AddItem.aspx" title="Add Item" description="Add New Item" />
+    </siteMapNode>
+    <siteMapNode url="~/Warranty/Warranty.aspx" title="Warranty" description="Warranty">
+      <siteMapNode url="~/Warranty/ExpiringWarranty.aspx" title="Expiring Soon" description="Expiring Warranties" />
+      <siteMapNode url="~/Warranty/ExpiredWarranty.aspx" title="Expired" description="Expired Warranties" />
+    </siteMapNode>
+    <siteMapNode url="~/Categories/Categories.aspx" title="Categories" description="Categories" />
+    <siteMapNode url="~/Sellers/Sellers.aspx" title="Sellers" description="Sellers" />
+    <siteMapNode url="~/Reports/Reports.aspx" title="Reports" description="Reports" />
+  </siteMapNode>
+</siteMap>
